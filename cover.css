@@ -71,7 +71,7 @@
 }
  canvas#board{
      background-color: #01579B;
-     width: 65%;
+     width: 50%;
      box-shadow: 0 0 300px #01579B;
      border-radius: 16px;
      z-index: 400;
